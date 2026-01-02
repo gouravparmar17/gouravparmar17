@@ -1,35 +1,46 @@
 # 💫 About Me:
 
 B.Tech Data Science | ML Enthusiast | Research Published
+
 Data Science undergraduate passionate about Machine Learning, Data Analysis, and Visualization. Experienced in building data-driven applications, analytical models, and dashboards to solve real-world problems.
 
 🚀 Skills
+
 Languages: Python, SQL, C/C++ (Basic)
+
 Data Science: Pandas, NumPy, Scikit-learn, Probability & Statistics
+
 Visualization: Power BI, Tableau, Matplotlib, Seaborn
+
 Tools: Jupyter, VS Code, Google Colab, MySQL Workbench
 
 📊 Projects
+
 🛡️ AI Fraud Detection System
+
 ML-based system to detect suspicious banking transactions
 Handled class imbalance using SMOTE
 Built interactive Power BI dashboards
 Tech: Python, Scikit-learn, Pandas, Power BI
 
 🏏 IPL Data Analysis
+
 Performed EDA on IPL datasets for match & player insights
 Tech: Python, Pandas, Matplotlib, Seaborn
 
 📝 Research
+
 Machine Learning-Driven Congestion Control for Packet-Switched Networks
 Published & presented at 16th ICCCNT, IIT Indore
 
 🏆 Achievements
+
   🥇 Winner – College Hackathon
   🤝 Core Team Member – NSS
   🎭 Best Nukad Natak Performance Award
 
 📫 Connect
+
   📧 gouravparmar345@gmail.com
   📞 Phone: +91-8120602306
   🔗 LinkedIn:linkedin.com/in/gourav-parmar-4783b1289
