@@ -1,116 +1,38 @@
 # 💫 About Me:
-B.Tech Data Science Student | Machine Learning Enthusiast | Research Published
 
-I am a motivated and detail-oriented Data Science undergraduate with a strong interest in Machine Learning, Data Analysis, and Visualization. I enjoy building data-driven solutions and analytical models that solve real-world problems. My focus is on applying statistical thinking, ML algorithms, and clean coding practices to create impactful applications.
+B.Tech Data Science | ML Enthusiast | Research Published
+Data Science undergraduate passionate about Machine Learning, Data Analysis, and Visualization. Experienced in building data-driven applications, analytical models, and dashboards to solve real-world problems.
 
-🚀 Technical Toolbox
-🧠 Programming Languages
+🚀 Skills
+Languages: Python, SQL, C/C++ (Basic)
+Data Science: Pandas, NumPy, Scikit-learn, Probability & Statistics
+Visualization: Power BI, Tableau, Matplotlib, Seaborn
+Tools: Jupyter, VS Code, Google Colab, MySQL Workbench
 
-Python
-
-SQL
-
-Snowflake
-
-C / C++ (Basic)
-
-📊 Data Science & Machine Learning
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Probability & Statistics
-
-Machine Learning Algorithms
-
-📈 Data Visualization
-
-Power BI
-
-Tableau
-
-Matplotlib
-
-Seaborn
-
-MS Excel
-
-🛠 Tools & Platforms
-
-Jupyter Notebook
-
-VS Code
-
-Google Colab
-
-MySQL Workbench
-
-📊 Featured Projects
-🛡️ AI-Based Suspicious Transaction Detection
-
-Developed an intelligent system to detect and classify fraudulent banking transactions.
-
-Key Highlights
-
-Addressed severe class imbalance using SMOTE
-
-Improved fraud detection accuracy significantly
-
-Designed an interactive Power BI dashboard for real-time monitoring
-
-Tech Stack:
-Python | Scikit-learn | Pandas | NumPy | Power BI
+📊 Projects
+🛡️ AI Fraud Detection System
+ML-based system to detect suspicious banking transactions
+Handled class imbalance using SMOTE
+Built interactive Power BI dashboards
+Tech: Python, Scikit-learn, Pandas, Power BI
 
 🏏 IPL Data Analysis
+Performed EDA on IPL datasets for match & player insights
+Tech: Python, Pandas, Matplotlib, Seaborn
 
-Performed in-depth Exploratory Data Analysis (EDA) on historical IPL datasets to uncover actionable insights.
+📝 Research
+Machine Learning-Driven Congestion Control for Packet-Switched Networks
+Published & presented at 16th ICCCNT, IIT Indore
 
-Key Highlights
+🏆 Achievements
+  🥇 Winner – College Hackathon
+  🤝 Core Team Member – NSS
+  🎭 Best Nukad Natak Performance Award
 
-Analyzed match outcomes, venue trends, and player performance
-
-Created meaningful visualizations for decision-making
-
-Tech Stack:
-Python | Pandas | Matplotlib | Seaborn | Power BI
-
-📝 Research & Publications
-📄 Machine Learning-Driven Congestion Control for Packet-Switched Networks
-
-Published & Presented at the 16th ICCCNT Conference, IIT Indore
-
-Proposed a novel ML-based intelligent framework for optimizing network congestion control
-
-Focused on improving throughput, latency, and packet loss using ML techniques
-
-🏆 Achievements & Leadership
-
-🥇 1st Place Winner – College Hackathon (Data Analysis Solution)
-
-🤝 Core Team Member, National Service Scheme (NSS)
-
-Led community initiatives and college-level events
-
-🎭 Best Nukad Natak Performance Award – Environment Day
-
-📜 Certifications
-
-Programming in Python – SSI Digital Academy
-
-Programming in C & C++ – Code Mantra
-
-Foundation SQL – Udemy
-
-📫 Connect With Me
-
-📧 Email: gouravparmar345@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/gourav-parmar-4783b1289/
-
-📞 Phone: +91-8120602306
+📫 Connect
+  📧 gouravparmar345@gmail.com
+  📞 Phone: +91-8120602306
+  🔗 LinkedIn:linkedin.com/in/gourav-parmar-4783b1289
 
 
 ## 🌐 Socials:
