@@ -1,5 +1,116 @@
 # 💫 About Me:
-B.Tech Data Science Student | Machine Learning Enthusiast | Research PublishedI am a motivated and detail-oriented Data Science student 111with a passion for building data-driven applications and analytical models2. I specialize in Python, Machine Learning, and Data Visualization33333. My goal is to apply technical knowledge and problem-solving skills to solve real-world challenges4.🚀 Technical ToolboxCategorySkillsLanguagesPython, SQL, Snowflake, C & C++ (Basic) 5Data SciencePandas, NumPy, Scikit-learn, Matplotlib, Seaborn 6VisualizationPower BI, Tableau, MS-Excel 7Tools/PlatformsJupyter Notebook, VS Code, MySQL Workbench, Google Colab 8Core KnowledgeMachine Learning, Probability & Statistics, DBMS 9📊 Featured Projects🛡️ AI Flagging Suspicious TransactionsDeveloped an intelligent system to detect and classify fraudulent banking transactions101010.Impact: Handled class imbalance using SMOTE to significantly improve detection accuracy11.Tech: Python, scikit-learn, Pandas, NumPy, Power BI12.Outcome: Built an interactive Power BI dashboard to track alerts, risk scores, and trends13.🏏 IPL Data AnalysisA deep dive into historical IPL datasets to uncover performance patterns141414.Impact: Conducted EDA to identify trends in match outcomes, venues, and player performance15.Tech: Python, Pandas, Matplotlib, Seaborn, Power BI16.📝 Research & PublicationsMachine Learning Driven Congestion Control for Packet Switched Networks 17Published and presented at the 16th ICCCNT Conference at IIT Indore18.Proposed a novel ML-based intelligent framework for optimizing data networks19.🏆 Achievements & Leadership🥇 Winner: 1st Place in College Hackathon for an innovative data analysis solution20.🤝 Leadership: Core Team Member of the National Service Scheme (NSS), leading community projects and fests21.🎭 Award: Best Nukad Natak Performance for an impactful street play on Environment Day22.📜 CertificationsProgramming in Python (SSI Digital Academy) 23Programming in C & C++ (Code Mantra) 24Foundation SQL (Udemy) 25📫 Connect with MeEmail: gouravparmar345@gmail.com 26LinkedIn: [Your LinkedIn Profile URL] 27Phone: 8120602306 28
+B.Tech Data Science Student | Machine Learning Enthusiast | Research Published
+
+I am a motivated and detail-oriented Data Science undergraduate with a strong interest in Machine Learning, Data Analysis, and Visualization. I enjoy building data-driven solutions and analytical models that solve real-world problems. My focus is on applying statistical thinking, ML algorithms, and clean coding practices to create impactful applications.
+
+🚀 Technical Toolbox
+🧠 Programming Languages
+
+Python
+
+SQL
+
+Snowflake
+
+C / C++ (Basic)
+
+📊 Data Science & Machine Learning
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Probability & Statistics
+
+Machine Learning Algorithms
+
+📈 Data Visualization
+
+Power BI
+
+Tableau
+
+Matplotlib
+
+Seaborn
+
+MS Excel
+
+🛠 Tools & Platforms
+
+Jupyter Notebook
+
+VS Code
+
+Google Colab
+
+MySQL Workbench
+
+📊 Featured Projects
+🛡️ AI-Based Suspicious Transaction Detection
+
+Developed an intelligent system to detect and classify fraudulent banking transactions.
+
+Key Highlights
+
+Addressed severe class imbalance using SMOTE
+
+Improved fraud detection accuracy significantly
+
+Designed an interactive Power BI dashboard for real-time monitoring
+
+Tech Stack:
+Python | Scikit-learn | Pandas | NumPy | Power BI
+
+🏏 IPL Data Analysis
+
+Performed in-depth Exploratory Data Analysis (EDA) on historical IPL datasets to uncover actionable insights.
+
+Key Highlights
+
+Analyzed match outcomes, venue trends, and player performance
+
+Created meaningful visualizations for decision-making
+
+Tech Stack:
+Python | Pandas | Matplotlib | Seaborn | Power BI
+
+📝 Research & Publications
+📄 Machine Learning-Driven Congestion Control for Packet-Switched Networks
+
+Published & Presented at the 16th ICCCNT Conference, IIT Indore
+
+Proposed a novel ML-based intelligent framework for optimizing network congestion control
+
+Focused on improving throughput, latency, and packet loss using ML techniques
+
+🏆 Achievements & Leadership
+
+🥇 1st Place Winner – College Hackathon (Data Analysis Solution)
+
+🤝 Core Team Member, National Service Scheme (NSS)
+
+Led community initiatives and college-level events
+
+🎭 Best Nukad Natak Performance Award – Environment Day
+
+📜 Certifications
+
+Programming in Python – SSI Digital Academy
+
+Programming in C & C++ – Code Mantra
+
+Foundation SQL – Udemy
+
+📫 Connect With Me
+
+📧 Email: gouravparmar345@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/gourav-parmar-4783b1289/
+
+📞 Phone: +91-8120602306
 
 
 ## 🌐 Socials:
