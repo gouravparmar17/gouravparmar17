@@ -43,7 +43,7 @@ Published & presented at 16th ICCCNT, IIT Indore
 
   📧 gouravparmar345@gmail.com
   📞 Phone: +91-8120602306
-  🔗 LinkedIn:linkedin.com/in/gourav-parmar-4783b1289
+  
 
 
 ## 🌐 Socials:
