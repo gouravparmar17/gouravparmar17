@@ -6,7 +6,7 @@ Data Science undergraduate passionate about Machine Learning, Data Analysis, and
 
 🚀 Skills
 
-Languages: Python, SQL, C/C++ (Basic)
+Languages: Python, SQL, Snowflake, C&C++ (Basic)
 
 Data Science: Pandas, NumPy, Scikit-learn, Probability & Statistics
 
